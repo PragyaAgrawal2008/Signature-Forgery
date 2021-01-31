@@ -16,4 +16,4 @@ Data used here is: https://s3-ap-southeast-1.amazonaws.com/he-public-data/sample
 10. tqdm
 
 *Basic CNN model: This model contains four convoluation layers, four max pooling layers and two dense layers.
-
+*Accuracy=63.37%
