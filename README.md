@@ -15,4 +15,5 @@ Data used here is: https://s3-ap-southeast-1.amazonaws.com/he-public-data/sample
 9. cv2
 10. tqdm
 
-Basic CNN model: This model contains two convoluation layers, two pooling layers and two dense layers.
+*Basic CNN model: This model contains four convoluation layers, four max pooling layers and two dense layers.
+
